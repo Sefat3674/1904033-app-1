@@ -1,1 +1,8 @@
 streamlit
+tensorflow==2.11.0
+keras-cv-attention-models
+opencv-python-headless
+pillow
+scikit-image
+lime
+matplotlib
